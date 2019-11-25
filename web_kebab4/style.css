@@ -1,0 +1,35 @@
+/* kolonas */
+.column1 {
+    float: left;
+    width: 15%;
+    height: 660px;
+    background-color: black;
+}
+
+.column2 {
+    float: left;
+    width: 22%;
+    height: 660px;
+    background-color: black;
+}
+
+.column3 {
+    float: left;
+    width: 35%;
+    height: 660px;
+    background-color: black;
+}
+
+.column4 {
+    float: left;
+    width: 28%;
+    height: 660px;
+    background-color: black;
+}
+
+.bilde1{
+    position: fixed;
+    bottom: 100px;
+    right: 900px;
+
+
